@@ -111,7 +111,7 @@ This project was completed solely by **[Aditya]**. Key responsibilities included
 
 ## 🚀 Usage Instructions
 ### Prerequisites
-- PostgreSQL installed and configured.
+- MySQL installed and configured.
 - Power BI Desktop installed.
 
 ### ⚡ Steps to Run the Project
