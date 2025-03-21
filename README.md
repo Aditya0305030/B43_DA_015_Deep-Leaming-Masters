@@ -56,7 +56,6 @@ This project was completed solely by **[Aditya]**. Key responsibilities included
 - 🚀 **Equipment_Type**: Type of military equipment.
 - 💥 **Losses**: Number of equipment losses.
 - 🧭 **Loss_Direction**: Direction or area of loss.
-- 🇺🇦 **Country**: Country involved.
 
 ---
 
@@ -77,25 +76,25 @@ This project was completed solely by **[Aditya]**. Key responsibilities included
 ---
 
 ## 🗄️ SQL Database Setup
-- **SQL File:** `sql file of cw.sql`
+- **SQL File:** `Project SQL File.sql`
 - **Database Used:** MySQL
 
 ### ⚙️ Setup Instructions
 1. Create a MySQL database named `warfare_losses`.
-2. Run the provided SQL script (`sql file of cw.sql`) to create and populate tables.
+2. Run the provided SQL script (`Project SQL File.sql`) to create and populate tables.
 3. Use optimized SQL queries to analyze the data effectively.
 
 ---
 
 ## 📊 Power BI Dashboard
-- **File:** `construct week project.pbix`
+- **File:** `Warfare losses dashboard.pbix`
 - **Description:**
   - Provides visual insights into key metrics and trends.
   - Includes interactive charts and heatmaps for loss patterns.
 
 ### 📝 Instructions to Open
 1. Launch Power BI Desktop.
-2. Open the file `construct week project.pbix`.
+2. Open the file `Warfare losses dashboard.pbix`.
 3. Explore interactive visualizations to analyze key insights.
 
 ---
@@ -120,8 +119,8 @@ This project was completed solely by **[Aditya]**. Key responsibilities included
 git clone https://github.com/Aditya0305030/B43_DA_015_Deep-Leaming-Masters.git
 ```
 1. Load the dataset (`war_equipment.csv`) into the SQL database.
-2. Run the SQL script (`sql file of cw.sql`) to create and populate tables.
-3. Open `construct week project.pbix` in Power BI.
+2. Run the SQL script (`Project SQL File.sql`) to create and populate tables.
+3. Open `Warfare losses dashboard.pbix` in Power BI.
 
 ---
 
@@ -131,14 +130,12 @@ git clone https://github.com/Aditya0305030/B43_DA_015_Deep-Leaming-Masters.git
 ├── /data
 │   └── war_equipment.csv
 ├── /sql
-│   └── sql file of cw.sql
+│   └── Project SQL File.sql
 ├── /dashboard
-│   └── construct week project.pbix
-├── /presentation
-│   └── group_presentation.pptx
+│   └──Warfare losses dashboard.pbix
 ├── README.md
 └── /scripts
-    └── data_processing.ipynb
+    └── EDA and Connection File.ipynb
 ```
 
 ---
