@@ -36,7 +36,7 @@ This project conducts an in-depth analysis of the 2022 Ukraine-Russia conflict b
 ---
 
 ## 👤 Individual Contribution
-This project was completed solely by **[Your Name]**. Key responsibilities included:
+This project was completed solely by **[Aditya]**. Key responsibilities included:
 
 💡 **Data Collection & Cleaning:** Sourced and cleaned high-quality data.  
 📊 **EDA & Analysis:** Explored trends and generated meaningful insights.  
@@ -78,14 +78,12 @@ This project was completed solely by **[Your Name]**. Key responsibilities inclu
 
 ## 🗄️ SQL Database Setup
 - **SQL File:** `sql file of cw.sql`
-- **Database Used:** PostgreSQL
+- **Database Used:** MySQL
 
 ### ⚙️ Setup Instructions
-1. Create a PostgreSQL database named `war_losses`.
+1. Create a MySQL database named `warfare_losses`.
 2. Run the provided SQL script (`sql file of cw.sql`) to create and populate tables.
 3. Use optimized SQL queries to analyze the data effectively.
-
-![SQL Setup](https://raw.githubusercontent.com/yourusername/warfare-losses-analysis/main/images/sql_setup.png)
 
 ---
 
@@ -99,8 +97,6 @@ This project was completed solely by **[Your Name]**. Key responsibilities inclu
 1. Launch Power BI Desktop.
 2. Open the file `construct week project.pbix`.
 3. Explore interactive visualizations to analyze key insights.
-
-![Power BI Demo](https://raw.githubusercontent.com/yourusername/warfare-losses-analysis/main/images/powerbi_demo.gif)
 
 ---
 
@@ -121,7 +117,7 @@ This project was completed solely by **[Your Name]**. Key responsibilities inclu
 ### ⚡ Steps to Run the Project
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/warfare-losses-analysis.git
+git clone https://github.com/Aditya0305030/B43_DA_015_Deep-Leaming-Masters.git
 ```
 1. Load the dataset (`war_equipment.csv`) into the SQL database.
 2. Run the SQL script (`sql file of cw.sql`) to create and populate tables.
@@ -140,9 +136,6 @@ git clone https://github.com/yourusername/warfare-losses-analysis.git
 │   └── construct week project.pbix
 ├── /presentation
 │   └── group_presentation.pptx
-├── /images
-│   ├── sql_setup.png
-│   └── powerbi_demo.gif
 ├── README.md
 └── /scripts
     └── data_processing.ipynb
@@ -158,5 +151,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-💡 **Created with dedication by [Your Name]** 🚀
+💡 **Created with dedication by [Aditya]** 🚀
 
