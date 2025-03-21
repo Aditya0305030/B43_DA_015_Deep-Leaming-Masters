@@ -1,7 +1,7 @@
 # 🎖️ Warfare Losses: Analyzing the 2022 Conflict
 
 ![Project Badge](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=flat-square)
-![Project Badge](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square)
+![Project Badge](https://img.shields.io/badge/MySQL-Database-blue?style=flat-square)
 ![License Badge](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
