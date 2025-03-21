@@ -42,7 +42,7 @@ This project was completed solely by **[Aditya]**. Key responsibilities included
 📊 **EDA & Analysis:** Explored trends and generated meaningful insights.  
 🗄️ **SQL Database Design:** Designed and optimized the SQL schema.  
 📈 **Power BI Dashboard:** Developed an interactive and insightful dashboard.  
-🎤 **Group Presentation:** Delivered a comprehensive presentation highlighting key findings.  
+🎤 **Project Presentation:** Delivered a comprehensive presentation highlighting key findings.  
 
 ---
 
