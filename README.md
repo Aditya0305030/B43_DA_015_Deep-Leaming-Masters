@@ -99,8 +99,9 @@ This project was completed solely by **[Aditya]**. Key responsibilities included
 
 ---
 
-## 🎥 Group Presentation
-- **Presentation File:** `group_presentation.pptx`
+## 🎥 Project Presentation
+- >[Click here to watch a video demo](https://drive.google.com/file/d/1NbyXuA6zb4sOGpkcF5Ea-zAqzIRUCjQR/view?usp=drive_link)
+
 - **Key Highlights:**
   - In-depth analysis of equipment losses.
   - Exploration of conflict zones and impacted regions.
